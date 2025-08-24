@@ -1,0 +1,18 @@
+{
+
+  "Images": [
+    {
+      "URL": "https://i.imgur.com/ruGbqrt.png",
+      "Pos": "MidMid",
+      "Persist": true,
+      "FadeTime": 5,
+    },
+    {
+      "URL": "https://i.imgur.com/pcT5otW.png",
+      "Pos": "BottomLeft",
+      "Persist": true,
+      "FadeTime": 5,
+    }
+  ]
+
+}
